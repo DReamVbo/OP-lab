@@ -1,0 +1,5 @@
+﻿  VR2 OP-4 Lab.cpp
+C:\Users\ACER\source\repos\VR2 OP-4 Lab\VR2 OP-4 Lab\VR2 OP-4 Lab.cpp(14,11): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\ACER\source\repos\VR2 OP-4 Lab\VR2 OP-4 Lab\VR2 OP-4 Lab.cpp(17,11): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\ACER\source\repos\VR2 OP-4 Lab\VR2 OP-4 Lab\VR2 OP-4 Lab.cpp(25,33): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  VR2 OP-4 Lab.vcxproj -> C:\Users\ACER\source\repos\VR2 OP-4 Lab\Debug\VR2 OP-4 Lab.exe
