@@ -1,0 +1,3 @@
+﻿  ASd-5.cpp
+C:\Проэкты КПИ\ASd-5\ASd-5\ASd-5.cpp(26,15): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  ASd-5.vcxproj -> C:\Проэкты КПИ\ASd-5\Debug\ASd-5.exe
