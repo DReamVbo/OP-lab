@@ -1,0 +1,4 @@
+﻿  Lab-op 8.cpp
+C:\Users\ACER\source\repos\Lab-op 8\Lab-op 8\Lab-op 8.cpp(42,17): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\ACER\source\repos\Lab-op 8\Lab-op 8\Lab-op 8.cpp(45,20): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  Lab-op 8.vcxproj -> C:\Users\ACER\source\repos\Lab-op 8\Debug\Lab-op 8.exe
